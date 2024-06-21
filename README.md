@@ -24,6 +24,8 @@ bin/console doctrine:migrations:migrate --no-interaction
 composer dump-env prod
 ```
 
+Check out [the user guide](doc/user-guide/) for details on how to use Datatidy to process data.
+
 ## Getting started
 
 These instructions will get you a copy of the project up and running on your
